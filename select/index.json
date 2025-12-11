@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "DISCONNECTED",
+  "base_artist": "HOTBLADE",
+  "createdAt": "2025-12-11T15:01:14.982917Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Disconnected",
+      "artist": "RJD2",
+      "has_synced": false,
+      "path": "select/01_Disconnected_RJD2.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Disconnected",
+      "artist": "Julian Lennon",
+      "has_synced": false,
+      "path": "select/02_Disconnected_Julian_Lennon.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "You Have Been Disconnected",
+      "artist": "The Brian Jonestown Massacre",
+      "has_synced": true,
+      "path": "select/03_You_Have_Been_Disconnected_The_Brian_Jonestown_Massacre.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Disconnected",
+      "artist": "Pat Benatar",
+      "has_synced": false,
+      "path": "select/04_Disconnected_Pat_Benatar.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Disconnected",
+      "artist": "Simple Minds",
+      "has_synced": false,
+      "path": "select/05_Disconnected_Simple_Minds.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Disconnected",
+      "artist": "The Creatures",
+      "has_synced": true,
+      "path": "select/06_Disconnected_The_Creatures.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Disconnected (beloved in a void mix by The Beloved)",
+      "artist": "The Creatures",
+      "has_synced": false,
+      "path": "select/07_Disconnected_(beloved_in_a_void_mix_by_The_Beloved)_The_Creatures.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Disconnected (Beloved In A Void Mix by The Beloved)",
+      "artist": "Creatures",
+      "has_synced": false,
+      "path": "select/08_Disconnected_(Beloved_In_A_Void_Mix_by_The_Beloved)_Creatures.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Disconnected Magnetic Corridors",
+      "artist": "Hypocrisy",
+      "has_synced": true,
+      "path": "select/09_Disconnected_Magnetic_Corridors_Hypocrisy.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Disconnected Magnetic Corridor",
+      "artist": "Hypocrisy",
+      "has_synced": true,
+      "path": "select/10_Disconnected_Magnetic_Corridor_Hypocrisy.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Disconnected",
+      "artist": "Paradox",
+      "has_synced": false,
+      "path": "select/11_Disconnected_Paradox.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Disconnected",
+      "artist": "Queensryche",
+      "has_synced": true,
+      "path": "select/12_Disconnected_Queensryche.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Disconnected",
+      "artist": "Shy Child",
+      "has_synced": true,
+      "path": "select/13_Disconnected_Shy_Child.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Disconnected",
+      "artist": "Lindsay Lohan",
+      "has_synced": true,
+      "path": "select/14_Disconnected_Lindsay_Lohan.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Disconnected",
+      "artist": "Beatsteaks",
+      "has_synced": true,
+      "path": "select/15_Disconnected_Beatsteaks.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Disconnected - Seb Version",
+      "artist": "Hotblade",
+      "has_synced": false,
+      "path": "select/pl_01_Disconnected_-_Seb_Version_Hotblade.txt"
+    }
+  ]
+}
