@@ -1,0 +1,80 @@
+# HOTBLADE – DISCONNECTED
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Disconnected!
+I gotta be glam, I gotta be fun
+Don't you know that I'm
+disconnected!
+You think I'm the one my baby
+Can't you see I'm not that kind?
+Dancin' time
+A crazy spot of light all over
+your body
+Move in time
+You gotta feel the rhythm
+pump in your blood
+You don't hear me callin'
+Spinnin' like a rollin'
+Top and crazy goin' around
+Up and down in a dream
+Beamin' out forever
+Turnin' in the music machine
+I gotta be glam, I gotta be fun
+Don't you know that I'm
+disconnected!
+You think I'm the one my baby
+Can't you see I'm not that kind?
+I don't wanna shine,
+don't wanna be fine
+Can you hear me shout,
+disconnected!
+You make up your mind, my baby
+Tell me are you gonna stay?
+Reach for me
+I never said that I was
+gonna be easy
+Run from me
+I might be havin' fun just
+watchin' you dance
+You don't hear me callin'
+Spinnin' like a rollin'
+Top and crazy goin' around
+Up and down in a dream
+Beamin' out forever
+Turnin' in the music machine
+I gotta be glam, I gotta be fun
+Don't you know that I'm
+disconnected!
+You think I'm the one my baby
+Can't you see I'm not that kind?
+I don't wanna shine,
+don't wanna be fine
+Can you hear me shout,
+disconnected!
+You make up your mind, my baby
+Tell me are you gonna stay?
+Dancin' time
+A crazy spot of light all over
+your body
+Move in time
+You gotta feel the rhythm
+pump in your blood
+You don't hear me callin'
+Spinnin' like a rollin'
+Top and crazy goin' around
+Up and down in a dream
+Beamin' out forever
+Turnin' in the music machine
+I gotta be glam, I gotta be fun
+Disconnected!
+You think I'm the one my baby
+Can't you see I'm not that kind?
+I don't wanna shine,
+don't wanna be fine
+Can you hear me shout,
+disconnected!
+You make up your mind, my baby
+Tell me are you gonna stay?
+```
